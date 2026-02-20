@@ -39,3 +39,9 @@
 
 # debug information files
 *.dwo
+
+# macOS system file
+.DS_Store
+
+# Arduino build folder
+build/
